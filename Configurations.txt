@@ -1,0 +1,7 @@
+1) Install AWS CLI
+-------------------
+ AWS CLI Version 2
+
+ 2) Check AWS CLI
+ ----------------
+$ aws --version
